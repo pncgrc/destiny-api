@@ -1,0 +1,6 @@
+@DestinyAPI_HostAddress = http://localhost:5015
+
+GET {{DestinyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
